@@ -1,7 +1,7 @@
 ## 0.15.0
 
-* Add support for bitmap data with `InputImage.fromBitmap()` constructor.
-* Update README with bitmap usage example.
+* Add an example showing how to extract text from a bitmap image with the new `InputImage.fromBitmap()` constructor.
+* Bumps the version to support the new `InputImage.fromBitmap()` constructor from `google_mlkit_commons`.
 
 ## 0.14.0
 
